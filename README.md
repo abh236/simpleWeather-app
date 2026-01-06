@@ -4,7 +4,7 @@ A beautiful and responsive desktop **Weather Application** built with **PyQt5**,
 
 ---
 
-## 🚀 Features
+## 🚀 Features1
 
 - Real-time weather info via OpenWeatherMap
 - Temperature in Celsius
