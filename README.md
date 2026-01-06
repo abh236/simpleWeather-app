@@ -12,7 +12,7 @@ A beautiful and responsive desktop **Weather Application** built with **PyQt5**,
 - Dynamic weather emojis (☀️ 🌦️ ❄️ etc.)
 - Clear UI with Qt layouts and custom CSS styles
 - Full error handling for various HTTP response codes
-
+t
 ---
 
 ## 🖥️ Screenshots
